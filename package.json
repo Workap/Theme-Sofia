@@ -17,5 +17,13 @@
         "path": "./themes/Theme Mi Amorcito 3-color-theme.json"
       }
     ]
-  }
+  },
+  "author": {
+    "name": "Workap"
+  },
+  "repository": {
+    "url": "https://github.com/Workap/Theme-Sofia.git",
+    "type": "git"
+  },
+  "publisher": "Theme-Mi-Vida"
 }

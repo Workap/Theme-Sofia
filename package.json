@@ -1,0 +1,21 @@
+{
+  "name": "theme-mi-amorcito--3",
+  "displayName": "Theme Mi Amorcito <3",
+  "description": "Theme para mi niña hermosa",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Theme Mi Amorcito <3",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Theme Mi Amorcito 3-color-theme.json"
+      }
+    ]
+  }
+}

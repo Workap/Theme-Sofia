@@ -2,7 +2,7 @@
   "name": "theme-mi-amorcito--3",
   "displayName": "Theme Mi Amorcito <3",
   "description": "Theme para mi niña hermosa",
-  "version": "1.0.1",
+  "version": "1.5.1",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -18,6 +18,7 @@
       }
     ]
   },
+  "icon": "./icon/theme-icon.png",
   "author": {
     "name": "Workap"
   },

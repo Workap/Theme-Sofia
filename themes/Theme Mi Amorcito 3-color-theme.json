@@ -23,7 +23,8 @@
 		"icon.foreground":"#ff81ff",
 		"menu.foreground": "#fd04bb",
 		"titleBar.activeBackground": "#0a0a0a",
-		"titleBar.activeForeground": "#e35dcf"
+		"titleBar.activeForeground": "#e35dcf",
+		"statusBar.debuggingBackground": "#000"
 	},
 	"tokenColors": [
 		{
@@ -94,7 +95,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#b728a4"
+				"foreground": "#df6cbe"
 			}
 		},
 		{
@@ -105,7 +106,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#cc1515"
+				"foreground": "#0ff2ee"
 			}
 		},
 		{
@@ -127,7 +128,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#d851d1"
+				"foreground": "#fffd75"
 			}
 		},
 		{
@@ -168,7 +169,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#696949"
+				"foreground": "#ff9ca1"
 			}
 		},
 		{
